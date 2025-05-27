@@ -1,0 +1,39 @@
+# 🛒 Online Store – Java Console Application
+
+This is a Java-based console application developed as part of an Advanced 
+Programming course project at the University of Isfahan. The project 
+simulates an online store system with support for multiple user roles and 
+modular product management, inspired by real-world platforms like Digikala 
+and Amazon.
+
+## 🚀 Features
+
+- Role-based user system (Customer, Seller, Admin)
+- Product management with category-specific attributes
+- Shopping cart and invoice generation
+- Review and rating system (only for verified buyers)
+- Admin panel for approval and moderation
+- Extendable code architecture using OOP principles
+
+## 🧑‍💻 Technologies Used
+
+- Language: Java (JDK 8+)
+- Structure: Multi-package with `src/com/company/` hierarchy
+- Version Control: Git
+- Interface: Command-line (menu-based)
+
+
+## 📌 Notes
+
+- This project is **Phase 1** of a multi-phase build and is structured for 
+scalability.
+- Future phases will add persistence, UI, and multi-user interactions.
+
+## 👤 Author
+
+Anita Esmaeilian  
+[LinkedIn](https://linkedin.com/in/anitaesmaeilian)
+
+---
+
+
